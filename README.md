@@ -2,7 +2,7 @@
 * This is an assembler for the TTP architecture.
   * TTP stands for "Taks Toy Processor" it is a processor design used for an intro to assembly language class that I took.
 # TIPS AND USAGE:
-* To run do: ./asm &lt myasmfile &gt
+* To run do: ./asm &lt;myasmfile&gt;
   * the output will be placed in the file output.ram.
   * if you have access to the Taks logisim files for his ttp processor then you can run your assembly on those.
   * if you do not then don't worry you can run them just as easily on the emulator I created which you can find at https://github.com/mehstruslehpy/TTPSim
